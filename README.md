@@ -8,4 +8,4 @@ The data has been prepared for comparison and the construction of a correspondin
 
 Interactive dashboards have been generated as a result of the analysis, which allow for the exploration of a country's development across different aspects and can help identify the best country for an individual based on their preferences.
 
-More information at ____________.
+More information at https://evgenii-sokolov.github.io/Portfolio_website/Countries_Rating.html.
